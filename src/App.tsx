@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { Home } from './pages/Home';
 import { Movies } from './pages/Movies';
 import { MovieDetails } from './pages/MovieDetails';
@@ -10,7 +10,7 @@ import { Footer } from './components/Footer';
 
 function App() {
   return (
-    <BrowserRouter>
+    <Router>
       <div className="flex flex-col min-h-screen bg-zinc-950 text-white">
         <div className="flex-grow">
           <Routes>
@@ -26,7 +26,7 @@ function App() {
         </div>
         <Footer />
       </div>
-    </BrowserRouter>
+    </Router>
   );
 }
 
