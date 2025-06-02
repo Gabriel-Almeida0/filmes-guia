@@ -82,9 +82,8 @@ Este projeto está sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) pa
 ## 👤 Autor
 
 - Nome: Gabriel Almeida
-- Portfolio: [gabriel-almeida.dev](https://gabriel-almeida.dev)
 - GitHub: [@Gabriel-Almeida0](https://github.com/Gabriel-Almeida0)
-- LinkedIn: [Gabriel Almeida](https://linkedin.com/in/gabriel-almeida)
+- LinkedIn: [Gabriel Almeida](https://www.linkedin.com/in/gabriel-almeida-695b9933b/)
 
 ---
 

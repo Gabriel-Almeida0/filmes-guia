@@ -33,7 +33,7 @@ export function Footer() {
                 <Github size={20} />
               </a>
               <a 
-                href="https://linkedin.com/in/gabriel-almeida" 
+                href="https://www.linkedin.com/in/gabriel-almeida-695b9933b/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className={cn(
@@ -44,7 +44,7 @@ export function Footer() {
                 <Linkedin size={20} />
               </a>
               <a 
-                href="mailto:contato@gabriel-almeida.dev" 
+                href="mailto:contato@example.com" 
                 className={cn(
                   "p-2 rounded-full bg-zinc-800 hover:bg-amber-500 hover:text-zinc-900",
                   "transition-colors duration-200"
